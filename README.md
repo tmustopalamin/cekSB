@@ -9,4 +9,6 @@ jika tidak ada proses SmartBillingClient maka smartstarter.exe dijalankan otomat
 
 pastikan folder smartbilling_client ada di drive C: ya 
 
+mudah mudahan bisa mengatasi permasalah billing smartbilling sering terputus dari server(kedip2 merah), tapi client masih bisa main.
+
 terima kasih
