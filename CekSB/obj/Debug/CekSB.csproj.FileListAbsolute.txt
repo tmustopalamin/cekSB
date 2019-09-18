@@ -1,0 +1,13 @@
+C:\Users\totoa\source\repos\CekSB\CekSB\bin\Debug\CekSB.exe.config
+C:\Users\totoa\source\repos\CekSB\CekSB\bin\Debug\CekSB.exe
+C:\Users\totoa\source\repos\CekSB\CekSB\bin\Debug\CekSB.pdb
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.Properties.Resources.resources
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.csproj.GenerateResource.cache
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.csproj.CoreCompileInputs.cache
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.exe
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.pdb
+C:\Users\totoa\source\repos\CekSB\CekSB\bin\Debug\CekSB.exe.manifest
+C:\Users\totoa\source\repos\CekSB\CekSB\bin\Debug\CekSB.application
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.exe.manifest
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.application
+C:\Users\totoa\source\repos\CekSB\CekSB\obj\Debug\CekSB.csprojAssemblyReference.cache
