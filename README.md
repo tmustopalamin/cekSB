@@ -1,5 +1,5 @@
 # cekSB
-cekSB - proses smartbilling client agar tidak terputus dari server
+cekSB - agar proses smartbilling client agar tidak terputus dari server
 
 cara pakai bisa dijalankan file debugnya (file ada di cekSB/CekSB/obj/Debug/) atau bisa dengan cara lain terserah anda seperti menjalankan program windows biasa. dan lebih baik jalankan di startup windowsnya
 
